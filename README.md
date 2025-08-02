@@ -1,16 +1,18 @@
-## Hi there 👋
+ 👋 ¡Hola! Soy Ezequiel
 
-<!--
-**zeke941/zeke941** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspirante a Data Scientist con formación en Python, análisis de datos y machine learning. Me apasiona entender los datos, encontrar patrones y construir soluciones que impacten en el mundo real.
 
-Here are some ideas to get you started:
+ 🛠️ Habilidades
+- Lenguajes: Python, SQL
+- Librerías: pandas, numpy, matplotlib, seaborn, scikit-learn
+- Herramientas: Jupyter Notebook, Git, VS Code
+- Metodologías: EDA, regresión, clasificación, visualización de datos, pruebas de hipótesis, modelos de ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📁 Proyectos Destacados
+🔹 [Predicción de churn bancario](https://github.com/TUUSUARIO/beta-bank-churn)  
+🔹 [Optimización de pozos petroleros con regresión lineal](https://github.com/TUUSUARIO/oilygiant)  
+🔹 [Análisis de ventas de videojuegos](https://github.com/TUUSUARIO/games-sales-analysis)
+
+ 📫 Contacto
+- [LinkedIn](www.linkedin.com/in/ezequiel-rodriguezlo)
+- Correo: ezequielrodriguezlopez@gmail.com
