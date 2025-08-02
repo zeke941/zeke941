@@ -9,9 +9,9 @@ Aspirante a Data Scientist con formación en Python, análisis de datos y machin
 - Metodologías: EDA, regresión, clasificación, visualización de datos, pruebas de hipótesis, modelos de ML
 
  📁 Proyectos Destacados
-🔹 [Predicción de churn bancario](https://github.com/TUUSUARIO/beta-bank-churn)  
-🔹 [Optimización de pozos petroleros con regresión lineal](https://github.com/TUUSUARIO/oilygiant)  
-🔹 [Análisis de ventas de videojuegos](https://github.com/TUUSUARIO/games-sales-analysis)
+🔹 [Predicción de churn bancario](https://github.com/zeke941/customer-churn-ml)  
+🔹 [Optimización de pozos petroleros con regresión lineal](https://github.com/zeke941/oilygiant-linear-model)  
+🔹 [Clasificacion de planes Mega-Line]([https://github.com/TUUSUARIO/games-sales-analysis](https://github.com/zeke941/megaline-ml-model))
 
  📫 Contacto
 - [LinkedIn](www.linkedin.com/in/ezequiel-rodriguezlo)
